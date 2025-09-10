@@ -1,5 +1,5 @@
 
-# Minimal requirements for the scaffold (core)
+# Minimal requirements for the code (core)
 flask
 pyyaml
 click

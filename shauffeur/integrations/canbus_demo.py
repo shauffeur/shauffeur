@@ -1,5 +1,5 @@
 
-"""CAN bus demo adapter (scaffold): convert CAN logs to ADAS events."""
+"""CAN bus demo adapter (code): convert CAN logs to ADAS events."""
 def parse_can_line(line: str):
     # Very small placeholder parser.
     # Real parser would parse IDs and payloads to detect events.

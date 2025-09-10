@@ -1,5 +1,5 @@
 
-"""Benchmark utilities (scaffold). Measures simple time to run explanations."""
+"""Benchmark utilities (code). Measures simple time to run explanations."""
 import time
 from ..inference.run import explain_event
 
