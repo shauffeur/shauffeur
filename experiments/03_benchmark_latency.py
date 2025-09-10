@@ -1,11 +1,3 @@
-
----
-
-# 🧪 Experiment 03: Benchmark Latency
-
-`experiments/03_benchmark_latency.py`
-
-```python
 """
 Experiment 03: Benchmark Latency
 --------------------------------
