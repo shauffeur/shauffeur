@@ -1,0 +1,5 @@
+
+# Minimal requirements for the scaffold (core)
+flask
+pyyaml
+click
